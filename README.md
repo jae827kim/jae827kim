@@ -4,15 +4,17 @@
 
 ## Career
 --------------
-YU CSE (2022 ~ 2025)
+**YU CSE (2022 ~ )**  
+Republic of korea Air Force (2023.12 ~ 2025.09)   
 
 ## Studying
 -------------
-*Algorithms*  
-*OSS Design*  
-*OSS Understanding*  
-*Operate Systems*  
-*Computer Network*  
+**2026-1st semester**  
+- *Algorithms*  
+- *OSS Design*
+- *OSS Understanding*  
+- *Operate System*  
+- *Computer Network*  
 <!--
 **jae827kim/jae827kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
